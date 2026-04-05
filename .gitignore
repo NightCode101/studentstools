@@ -43,3 +43,5 @@ Thumbs.db
 # Google AdSense
 # Add your AdSense PIN here if needed
 .adsense-pin
+
+.vercel
