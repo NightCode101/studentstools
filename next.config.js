@@ -5,6 +5,9 @@ const nextConfig = {
     unoptimized: true,
   },
   reactStrictMode: true,
+  turbopack: {
+    root: './',
+  },
 };
 
 module.exports = nextConfig;
