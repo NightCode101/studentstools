@@ -1,4 +1,14 @@
+# Allow all search engines
 User-agent: *
 Allow: /
 
+# Sitemap location
 Sitemap: https://studentstools.site/sitemap.xml
+
+# Crawl Delay (in seconds) - Be respectful
+Crawl-delay: 1
+
+# Disallow private/admin areas (if any)
+Disallow: /admin/
+Disallow: /.next/
+Disallow: /out/
