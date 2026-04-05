@@ -106,7 +106,7 @@ export default function TermsConditions() {
               If you have any questions about these Terms and Conditions, please contact us at:
             </p>
             <p className="mt-3">
-              <strong>Email:</strong> support@studentstools.site
+              <strong>Email:</strong> support@studentstool.site
             </p>
           </section>
         </div>

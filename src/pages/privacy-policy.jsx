@@ -75,7 +75,7 @@ export default function PrivacyPolicy() {
               <li>Disable cookies through your browser</li>
             </ul>
             <p className="mt-3">
-              To exercise these rights, contact us at support@studentstools.site.
+              To exercise these rights, contact us at support@studentstool.site.
             </p>
           </section>
 
@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
               If you have questions about this Privacy Policy, please contact us at:
             </p>
             <p className="mt-3">
-              <strong>Email:</strong> support@studentstools.site
+              <strong>Email:</strong> support@studentstool.site
             </p>
           </section>
         </div>

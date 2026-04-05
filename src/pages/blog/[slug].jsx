@@ -41,7 +41,7 @@ export default function BlogPost() {
         <title>{post.title} - Student Finance Tools</title>
         <meta name="description" content={post.excerpt} />
         <meta name="keywords" content={`${post.category}, ${post.title}`} />
-        <canonical href={`https://studentstools.site/blog/${slug}`} />
+        <canonical href={`https://www.studentstool.site/blog/${slug}`} />
       </Head>
 
       {/* Hero Section */}

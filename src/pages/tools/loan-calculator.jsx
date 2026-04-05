@@ -59,7 +59,7 @@ export default function LoanCalculator() {
         <title>Loan Calculator - Calculate Monthly Payments & Interest</title>
         <meta name="description" content="Calculate your loan payments, interest, and amortization schedule. Perfect for student loans and personal loans in the Philippines." />
         <meta name="keywords" content="loan calculator, monthly payment, interest calculator, amortization" />
-        <canonical href="https://studentstools.site/tools/loan-calculator" />
+        <canonical href="https://www.studentstool.site/tools/loan-calculator" />
       </Head>
 
       {/* Hero Section */}

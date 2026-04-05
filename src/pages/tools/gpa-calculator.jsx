@@ -70,7 +70,7 @@ export default function GPACalculator() {
         <title>GPA Calculator - Calculate Your Cumulative GPA Instantly</title>
         <meta name="description" content="Calculate your GPA in seconds using our Philippine-friendly GPA calculator. Supports grade and credit hour input for accurate cumulative GPA calculations." />
         <meta name="keywords" content="gpa calculator philippines, cumulative gpa, grade calculator" />
-        <canonical href="https://studentstools.site/tools/gpa-calculator" />
+        <canonical href="https://www.studentstool.site/tools/gpa-calculator" />
       </Head>
 
       {/* Hero Section */}

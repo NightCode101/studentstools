@@ -18,7 +18,7 @@ export default function Blog() {
         <title>Student Finance Blog - Tips, Guides & Financial Advice</title>
         <meta name="description" content="Read tips, guides, and strategies for better grades and smarter financial decisions for Filipino students." />
         <meta name="keywords" content="student finance, budgeting, GPA tips, loan guides, financial literacy" />
-        <canonical href="https://studentstools.site/blog" />
+        <canonical href="https://www.studentstool.site/blog" />
       </Head>
 
       {/* Hero Section */}

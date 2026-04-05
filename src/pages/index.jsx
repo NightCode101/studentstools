@@ -47,7 +47,7 @@ export default function Home() {
         <meta property="og:description" content="Calculate GPA, loans, and grades instantly. Trusted by Filipino students." />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
-        <canonical href="https://studentstools.site/" />
+        <canonical href="https://www.studentstool.site/" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}

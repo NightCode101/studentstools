@@ -116,7 +116,7 @@ export default function Contact() {
             <div className="space-y-6">
               <div className="bg-blue-50 rounded-lg p-6">
                 <h3 className="font-bold text-gray-900 mb-2">Email</h3>
-                <p className="text-gray-600">support@studentstools.site</p>
+                <p className="text-gray-600">support@studentstool.site</p>
               </div>
 
               <div className="bg-green-50 rounded-lg p-6">

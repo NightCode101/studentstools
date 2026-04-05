@@ -61,7 +61,7 @@ export default function GradeCalculator() {
         <title>Grade Calculator - Calculate Your Final Weighted Grade</title>
         <meta name="description" content="Calculate your final grade with custom components and weights. Perfect for understanding your class standing in the Philippines." />
         <meta name="keywords" content="grade calculator, final grade, weighted average" />
-        <canonical href="https://studentstools.site/tools/grade-calculator" />
+        <canonical href="https://www.studentstool.site/tools/grade-calculator" />
       </Head>
 
       {/* Hero Section */}

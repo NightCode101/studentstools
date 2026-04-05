@@ -65,8 +65,8 @@ export const organizationSchema = () => ({
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Students Tools',
-  url: 'https://studentstools.site',
-  logo: 'https://studentstools.site/logo.png',
+  url: 'https://www.studentstool.site',
+  logo: 'https://www.studentstool.site/logo.png',
   sameAs: [],
 });
 
@@ -77,6 +77,6 @@ export const breadcrumbSchema = (items) => ({
     '@type': 'ListItem',
     position: index + 1,
     name: item.name,
-    item: `https://studentstools.site${item.url}`,
+    item: `https://www.studentstool.site${item.url}`,
   })),
 });
