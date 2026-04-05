@@ -1,0 +1,16 @@
+# Ignore files that shouldn't be deployed
+.git
+.gitignore
+node_modules
+.env.local
+.env
+.next
+out
+*.md
+.DS_Store
+.turbo
+.vercel
+
+# Vercel should only look at this directory
+Tech-Tool
+studentstools (parent)
